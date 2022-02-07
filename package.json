@@ -1,0 +1,18 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "Example Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Lira",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
